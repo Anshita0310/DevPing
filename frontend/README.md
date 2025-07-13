@@ -19,7 +19,6 @@ A modern React.js frontend for the DevPing - Developer Connect Platform.
 
 - **Frontend**: React 18, React Router v6
 - **Styling**: Tailwind CSS 3.2
-- **Icons**: Lucide React
 - **HTTP Client**: Axios
 - **Form Handling**: React Hook Form
 - **State Management**: React Context API
@@ -64,7 +63,7 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Anshita0310/DevPing.git>
 cd devping-frontend
 ```
 
@@ -93,7 +92,7 @@ The frontend is configured to proxy API requests to the backend running on `http
 For production, you can set the `REACT_APP_API_URL` environment variable:
 
 ```bash
-REACT_APP_API_URL=https://your-backend-url.com/api
+REACT_APP_API_URL=http://localhost:8080/api
 ```
 
 ## Features Overview
