@@ -1,4 +1,4 @@
-# 🌐 DevPing - Developer Connect Platform
+# 🌐 DevPing - Developer Connect Platform (IN PROGRESS)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
